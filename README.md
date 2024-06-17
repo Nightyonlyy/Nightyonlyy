@@ -2,69 +2,58 @@
 
 ## Über mich
 
-Hallo! Ich bin Flo, ein leidenschaftlicher Entwickler mit einem Fokus auf [dein Fachgebiet, z.B. Webentwicklung, Datenanalyse, maschinelles Lernen]. Ich liebe es, neue Technologien zu erforschen und innovative Lösungen für komplexe Probleme zu entwickeln.
+Hallo! Ich bin Flo, ein leidenschaftlicher Entwickler mit einem Fokus auf Webentwicklung. Ich liebe es, neue Technologien zu erforschen und innovative Lösungen für komplexe Probleme zu entwickeln.
 
-- 💼 **Aktuelle Position**: [Dein Jobtitel] bei [Deine Firma]
-- 🎓 **Bildung**: [Dein Abschluss] in [Dein Studienfach] von [Deine Universität]
-- 🌍 **Ort**: [Dein Standort]
+- 🌍 **Ort**: Deutschland 🇩🇪 Google
 
 ## 🌟 Fähigkeiten
 
-- **Programmiersprachen**: [Liste der Programmiersprachen, z.B. Python, JavaScript, Java, C++]
-- **Frameworks & Bibliotheken**: [Liste der Frameworks/Bibliotheken, z.B. React, Django, TensorFlow]
-- **Tools & Technologien**: [Liste der Tools/Technologien, z.B. Docker, Git, Kubernetes]
-- **Datenbanken**: [Liste der Datenbanken, z.B. MySQL, PostgreSQL, MongoDB]
-
-## 🚀 Projekte
-
-### 1. [Projektname]
-Beschreibung: [Kurze Beschreibung des Projekts]
-- **Technologien**: [Verwendete Technologien]
-- **Features**: [Hauptfeatures des Projekts]
-
-### 2. [Projektname]
-Beschreibung: [Kurze Beschreibung des Projekts]
-- **Technologien**: [Verwendete Technologien]
-- **Features**: [Hauptfeatures des Projekts]
+- **Programmiersprachen**: Java, JavaScript
+- **Frameworks & Bibliotheken**: Spring Boot, React
+- **Tools & Technologien**: Docker, Git, Servermanagement & (Kubernetes soon)
+- **Datenbanken**: PostgreSQL, MySQL & MSSQL
 
 ## 📈 GitHub-Statistiken
 
-![Deine GitHub-Statistiken](https://github-readme-stats.vercel.app/api?username=Nightyonlyy&show_icons=true&theme=radical)
-![Top Sprachen](https://github-readme-stats.vercel.app/api/top-langs/?username=Nightyonlyy&layout=compact&theme=radical)
-[![trophy](https://github-profile-trophy.vercel.app/?username=Nightyonlyy)](https://github.com/ryo-ma/github-profile-trophy)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nightyonlyy&theme=radical)](https://git.io/streak-stats)
-![Visitor Count](https://profile-counter.glitch.me/Nightyonlyy/count.svg)
-![GitHub Contributions Calendar](https://ghchart.rshah.org/Nightyonlyy)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nightyonlyy&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-
-### 🔥 Beliebte Repositories
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Nightyonlyy&repo=repo-name-1&theme=radical)](https://github.com/Nightyonlyy/MattermostSeamlessOnlineExtension)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Nightyonlyy&repo=repo-name-2&theme=radical)](https://github.com/Nightyonlyy/FileUploader)
-
-
-
-### 📊 Letzte GitHub-Aktivitäten
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nightyonlyy&show_icons=true&theme=radical" alt="Deine GitHub-Statistiken">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nightyonlyy&theme=radical" alt="GitHub Streak">
+</div>
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Nightyonlyy&theme=radical" alt="GitHub Trophies">
+  </a>
+</div>
+<div align="center">
+  <a href="https://github.com/Nightyonlyy/MattermostSeamlessOnlineExtension">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nightyonlyy&repo=MattermostSeamlessOnlineExtension&theme=radical" alt="ReadMe Card 1">
+  </a>
+  <a href="https://github.com/Nightyonlyy/FileUploader">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nightyonlyy&repo=FileUploader&theme=radical" alt="ReadMe Card 2">
+  </a>
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nightyonlyy&layout=compact&theme=radical" alt="Top Sprachen">
+</div>
 
 
 ## 📫 Kontakt
 
-- **E-Mail**: [Deine E-Mail-Adresse]
-- **LinkedIn**: [Dein LinkedIn-Profil]
-- **Twitter**: [Dein Twitter-Profil]
-- **Portfolio**: [Dein Portfolio-Link]
+- **E-Mail**: business.nightyonly@pm.me
+- **Twitter**: @Nightyonly1
+
 
 ## 🌱 Was ich gerade lerne
 
-Zurzeit vertiefe ich meine Kenntnisse in [Technologie/Fähigkeit, die du gerade lernst] und arbeite an [Projekt, an dem du gerade arbeitest].
+Zurzeit vertiefe ich meine Kenntnisse in Spring Boot Security und arbeite an aktuell noch privaten Projekten, jedoch kommen dieses Jahr noch ein paar spannende Releases.
 
 ## ❤️ Interessen
 
-- [Hobby/Interesse 1]
-- [Hobby/Interesse 2]
-- [Hobby/Interesse 3]
-
+- Coding
+- Anime
+- Gaming
+  
 Vielen Dank, dass du mein Profil besucht hast! Wenn du Fragen hast oder zusammenarbeiten möchtest, zögere nicht, mich zu kontaktieren.
+
+### Views
+![Visitor Count](https://profile-counter.glitch.me/Nightyonlyy/count.svg)
