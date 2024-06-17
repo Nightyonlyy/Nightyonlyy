@@ -36,6 +36,22 @@ Beschreibung: [Kurze Beschreibung des Projekts]
 ![Visitor Count](https://profile-counter.glitch.me/Nightyonlyy/count.svg)
 ![GitHub Contributions Calendar](https://ghchart.rshah.org/Nightyonlyy)
 
+![Profile views](https://gpvc.arturio.dev/Nightyonlyy)
+
+### 📜 Zitat des Tages
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dracula)
+
+
+### 🔥 Beliebte Repositories
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Nightyonlyy&repo=repo-name-1&theme=radical)](https://github.com/Nightyonlyy/MattermostSeamlessOnlineExtension)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Nightyonlyy&repo=repo-name-2&theme=radical)](https://github.com/Nightyonlyy/FileUploader)
+
+
+
+### 📊 Letzte GitHub-Aktivitäten
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 
 ## 📫 Kontakt
 
