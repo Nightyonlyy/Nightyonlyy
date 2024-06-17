@@ -31,6 +31,15 @@ Beschreibung: [Kurze Beschreibung des Projekts]
 
 ![Deine GitHub-Statistiken](https://github-readme-stats.vercel.app/api?username=Nightyonlyy&show_icons=true&theme=radical)
 ![Top Sprachen](https://github-readme-stats.vercel.app/api/top-langs/?username=Nightyonlyy&layout=compact&theme=radical)
+![Build Status](https://img.shields.io/github/workflow/status/Nightyonlyy/invfinance/CI)
+![License](https://img.shields.io/github/license/Nightyonlyy/dein-repo)
+![Version](https://img.shields.io/github/v/release/dein-github-benutzername/dein-repo)
+![Contributors](https://img.shields.io/github/contributors/dein-github-benutzername/dein-repo)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Nightyonlyy)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nightyonlyy&theme=radical)](https://git.io/streak-stats)
+![Visitor Count](https://profile-counter.glitch.me/Nightyonlyy/count.svg)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Nightyonlyy&repo=dein-repo&theme=radical)](https://github.com/dein-github-benutzername/dein-repo)
+
 
 ## 📫 Kontakt
 
