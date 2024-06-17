@@ -40,9 +40,6 @@ Beschreibung: [Kurze Beschreibung des Projekts]
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Nightyonlyy&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-<a href="https://twitter.com/Nightyonly1?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @dein-benutzername</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
 ## 📫 Kontakt
 
 - **E-Mail**: [Deine E-Mail-Adresse]
