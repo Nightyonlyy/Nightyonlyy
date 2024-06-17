@@ -35,11 +35,8 @@ Beschreibung: [Kurze Beschreibung des Projekts]
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nightyonlyy&theme=radical)](https://git.io/streak-stats)
 ![Visitor Count](https://profile-counter.glitch.me/Nightyonlyy/count.svg)
 ![GitHub Contributions Calendar](https://ghchart.rshah.org/Nightyonlyy)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nightyonlyy&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![Profile views](https://gpvc.arturio.dev/Nightyonlyy)
-
-### 📜 Zitat des Tages
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dracula)
 
 
 ### 🔥 Beliebte Repositories
