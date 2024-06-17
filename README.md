@@ -34,10 +34,7 @@ Beschreibung: [Kurze Beschreibung des Projekts]
 [![trophy](https://github-profile-trophy.vercel.app/?username=Nightyonlyy)](https://github.com/ryo-ma/github-profile-trophy)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nightyonlyy&theme=radical)](https://git.io/streak-stats)
 ![Visitor Count](https://profile-counter.glitch.me/Nightyonlyy/count.svg)
-![Codewars](https://www.codewars.com/users/Nightyonlyy/badges/large)
-![LeetCode Stats](https://leetcode-stats-six.vercel.app/?NoNightyonly)
 ![GitHub Contributions Calendar](https://ghchart.rshah.org/Nightyonlyy)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Nightyonlyy&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ## 📫 Kontakt
