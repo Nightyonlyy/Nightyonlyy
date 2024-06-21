@@ -4,7 +4,7 @@
 
 Hallo! Ich bin Flo, ein leidenschaftlicher Entwickler mit einem Fokus auf Webentwicklung. Ich liebe es, neue Technologien zu erforschen und innovative Lösungen für komplexe Probleme zu entwickeln.
 
-- 🌍 **Ort**: Deutschland 🇩🇪 Google
+- 🌍 **Ort**: Deutschland 🇩🇪 
 
 ## 🌟 Fähigkeiten
 
