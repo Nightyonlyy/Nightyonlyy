@@ -1,19 +1,19 @@
-# 👋 Willkommen zu meinem GitHub Repository
+# 👋 Welcome to my GitHub Repository
 
-## Über mich
+## My Profile
 
-Hallo! Ich bin Flo, ein leidenschaftlicher Entwickler mit einem Fokus auf Webentwicklung. Ich liebe es, neue Technologien zu erforschen und innovative Lösungen für komplexe Probleme zu entwickeln.
+Hi, I'm Flo, a passionate developer with a focus on web development. I love exploring new technologies and developing innovative solutions to complex problems.
 
-- 🌍 **Ort**: Deutschland 🇩🇪 
+- 🌍 **Location**: Germany 🇩🇪 
 
-## 🌟 Fähigkeiten
+## 🌟 Abilities
 
-- **Programmiersprachen**: Java, JavaScript
-- **Frameworks & Bibliotheken**: Spring Boot, React
-- **Tools & Technologien**: Docker, Git, Servermanagement & (Kubernetes soon)
-- **Datenbanken**: PostgreSQL, MySQL & MSSQL
+- **Coding languages**: Java, JavaScript
+- **Frameworks & Libraries**: Spring Boot, React
+- **Tools & Techspecs**: Docker, Git, Servermanagement & (Kubernetes soon)
+- **Database**: PostgreSQL, MySQL & MSSQL
 
-## 📈 GitHub-Statistiken
+## 📈 GitHub-Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nightyonlyy&show_icons=true&theme=radical" alt="Deine GitHub-Statistiken">
@@ -33,27 +33,29 @@ Hallo! Ich bin Flo, ein leidenschaftlicher Entwickler mit einem Fokus auf Webent
   </a>
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nightyonlyy&layout=compact&theme=radical" alt="Top Sprachen">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nightyonlyy&layout=compact&theme=radical" alt="Top Languages">
 </div>
 
 
-## 📫 Kontakt
+## 📫 Contact
 
+- **Discord**: @nightyonly (best option, btw :D) [Germany & English]
 - **E-Mail**: business.nightyonly@pm.me
 - **Twitter**: @Nightyonly1
 
 
-## 🌱 Was ich gerade lerne
 
-Zurzeit vertiefe ich meine Kenntnisse in Spring Boot Security und arbeite an aktuell noch privaten Projekten, jedoch kommen dieses Jahr noch ein paar spannende Releases.
+## 🌱 What I am currently learning
 
-## ❤️ Interessen
+I am currently deepening my knowledge of Spring Boot Security and working on private projects, but there are still a few exciting releases coming this year.
+
+## ❤️ What im intressted in
 
 - Coding
 - Anime
 - Gaming
   
-Vielen Dank, dass du mein Profil besucht hast! Wenn du Fragen hast oder zusammenarbeiten möchtest, zögere nicht, mich zu kontaktieren.
+Thank you for visiting my profile! If you have any questions or would like to work together, please don't hesitate to contact me.
 
 ### Views
 ![Visitor Count](https://profile-counter.glitch.me/Nightyonlyy/count.svg)
