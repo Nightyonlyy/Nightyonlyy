@@ -10,8 +10,8 @@ Hi, I'm Flo, a passionate developer with a focus on web development. I love expl
 
 - **Coding languages**: Java, JavaScript
 - **Frameworks & Libraries**: Spring Boot, React
-- **Tools & Techspecs**: Docker, Git, Servermanagement & (Kubernetes soon)
-- **Database**: PostgreSQL, MySQL & MSSQL
+- **Tools & Techspecs**: Docker, Git, Servermanagement
+- **Database**: PostgreSQL
 
 
 ## 📫 Contact
