@@ -31,5 +31,6 @@ I am currently deepening my knowledge of Spring Boot Security and working on pri
 - Coding
 - Anime (1. Demon Slayer - 2. Fate Stay Night - 3. Attack on Titan)
 - Gaming (Mainly Story Games)
-  
+
+---
 Thank you for visiting my profile! If you have any questions or would like to work together, please don't hesitate to contact me.
