@@ -28,3 +28,6 @@ jobs:
           git add README.md
           git commit -m "Update age in README" || exit 0
           git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
