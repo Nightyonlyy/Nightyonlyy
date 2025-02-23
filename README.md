@@ -2,7 +2,7 @@
 
 ## My Profile
 
-Hi, I'm Flo, a passionate developer with a focus on web development. I love exploring new technologies and developing innovative solutions to complex problems.
+Hi, I'm Florian, a **{{AGE}}**-year-old developer with a focus on web development. I love exploring new technologies like the ones listed below.
 
 - 🌍 **Location**: Germany 🇩🇪 
 
@@ -12,6 +12,7 @@ Hi, I'm Flo, a passionate developer with a focus on web development. I love expl
 - **Frameworks & Libraries**: Spring Boot, React
 - **Tools & Techspecs**: Docker, Git
 - **Database**: PostgreSQL
+
 
 
 ## 📫 Contact
