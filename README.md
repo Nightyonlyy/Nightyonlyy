@@ -2,7 +2,7 @@
 
 ## My Profile
 
-Hi, I'm Florian, a **{{AGE}}**-year-old developer with a focus on web development. I love exploring new technologies like the ones listed below.
+Hi, I'm Florian, a 21-year-old developer with a focus on web development. I love exploring new technologies like the ones listed below.
 
 - 🌍 **Location**: Germany 🇩🇪 
 
